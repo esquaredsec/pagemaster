@@ -14,7 +14,7 @@ def main():
     print_report(char_sorted_list, file_path, total_words)
 
 def print_report(char_sorted_list: list[tuple[str, int]], file_path: str, total_words: int):
-    print("============ BOOKBOT ============")
+    print("============ PAGEMASTER v 1.0 ============")
     print(f"Analyzing book found at {file_path}...")
     print("----------- Word Count ----------")
     print(f"Found {total_words} total words")
