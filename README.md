@@ -1,3 +1,3 @@
-# bookbot
+# Pagemaster
 
-BookBot - Tool for analyzing book text.
+My custom Bookbot - Tool for analyzing book text.
