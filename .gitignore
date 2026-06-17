@@ -4,8 +4,6 @@ __pycache__/
 *$py.class
 
 
-./books
-
 # C extensions
 *.so
 

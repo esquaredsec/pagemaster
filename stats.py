@@ -24,4 +24,3 @@ def chars_dict_to_sorted_list(char_dict: dict[str, int]) -> list[tuple[str, int]
         sorted_list.append((k,v))
     proper_sorted_list = sorted(sorted_list, reverse=True, key=sort_on)
     return proper_sorted_list
-
